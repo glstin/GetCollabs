@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'Tails Azimuth',
   headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Newly posted tracks  on GetCollabs',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
